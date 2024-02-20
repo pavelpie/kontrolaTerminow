@@ -1,0 +1,6 @@
+{
+  "/api": {
+    "target": "http://srv101.loc:8001",
+    "secure": false
+  }
+}
